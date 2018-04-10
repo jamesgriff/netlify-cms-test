@@ -1,6 +1,9 @@
 ---
 title: My first post
-moreTest: 'Yay, more text!'
+moreTest: |-
+  Yay, more text!
+
+  # Markdown, woo!
 ---
 Hello
 
