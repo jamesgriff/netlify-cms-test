@@ -1,5 +1,6 @@
 ---
 title: My first post
+moreTest: 'Yay, more text!'
 ---
 Hello
 
