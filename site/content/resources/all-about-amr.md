@@ -1,7 +1,6 @@
 ---
 type: Write resource info here
-link: A
-title: All about AMR
+link: ''
 ---
 ## some info
 
