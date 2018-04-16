@@ -23,6 +23,6 @@ project_details: >-
   the accurate laboratory detection and surveillance of AMR in human bacterial
   pathogens across the whole of Vietnam.
 latitude: 21.022736
-longitude: 2105.8194536
+longitude: 105.8194536
 ---
 
