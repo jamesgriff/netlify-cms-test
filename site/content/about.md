@@ -15,27 +15,26 @@ content: >-
   ## What will the Fleming Fund support?
 
 
-  * \    Support the development of National Action Plans for AMR.
+  * Support the development of National Action Plans for AMR.
 
-  * \    Develop and support the implementation of protocols and guidance for
-  AMR surveillance and antimicrobial use.
+  * Develop and support the implementation of protocols and guidance for AMR
+  surveillance and antimicrobial use.
 
-  * \    Build laboratory capacity for diagnosis.
+  * Build laboratory capacity for diagnosis.
 
-  * \    Collect drug resistance data.
+  * Collect drug resistance data.
 
-  * \    Enable the sharing of drug resistance data locally, regionally, and
+  * Enable the sharing of drug resistance data locally, regionally, and
   internationally.
 
-  * \    Collate and analyse data on the sale and use of antimicrobial
-  medicines.
+  * Collate and analyse data on the sale and use of antimicrobial medicines.
 
-  * \    Advocate for the application of data to promote the rational use of
+  * Advocate for the application of data to promote the rational use of
   antimicrobials.
 
-  * \    Shape a sustainable system for AMR surveillance and data sharing.
+  * Shape a sustainable system for AMR surveillance and data sharing.
 
-  * \    Support fellowships to provide strong national leadership in addressing
+  * Support fellowships to provide strong national leadership in addressing
   AMR. 
 
 
