@@ -41,5 +41,9 @@ quotes:
       deployed at the right time, in the right place.
     source: >-
       https://www.gov.uk/government/news/tackling-antibiotics-resistance-in-low-income-countries
+twitter_title: Twitter
+resources_title: Resource Centre
+news_title: News
+wherewework_title: Where we work
 ---
 
