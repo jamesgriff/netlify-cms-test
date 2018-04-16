@@ -1,5 +1,5 @@
 ---
-title: The Fleming Fund
+title: Welcome to the Fleming Fund
 headerImage: /img/secondarymenubackground.jpg
 intro: >-
   Antimicrobial resistance happens when microorganisms survive exposure to a
