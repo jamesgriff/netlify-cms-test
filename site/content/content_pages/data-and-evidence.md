@@ -16,7 +16,7 @@ To truly understand the scope and scale of the problem we need to improve access
 
 **The Global AMR Surveillance System**
 
-We will support countries as they develop their capacity to collect and share data on antimicrobial resistance on the Global AMR Surveillance System (GLASS). 
+> We will support countries as they develop their capacity to collect and share data on antimicrobial resistance on the Global AMR Surveillance System (GLASS). 
 
 The Global AMR Surveillance System was launched and is managed by the World Health Organization (WHO) to collect data on resistance patterns. This is a global surveillance system built on data from national AMR surveillance systems. The platform shares, synthesises and harmonises national data on antimicrobial resistance patterns in order to:
 
